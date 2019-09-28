@@ -1,0 +1,3 @@
+# DerivedPropertyInHibernateEntityExample
+
+DerivedPropertyInHibernateEntityExample
